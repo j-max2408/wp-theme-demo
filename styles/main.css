@@ -131,7 +131,13 @@ a{
 
 
 /* Grille */
+.align-rigth {
+justify-content: flex-end;
+}
 
+input{
+    margin-bottom: 40px;
+}
 
 
 .flex{
